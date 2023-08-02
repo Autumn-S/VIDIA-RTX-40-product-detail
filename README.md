@@ -29,15 +29,15 @@ The accolades section utilizes a fading carousel feature that shows sentence len
 
 ## Architecture ##
 This section utilizes an animated transform that is responsive to the user scrolling down the page. Upon reaching a breakpoint, the animation kicks off, moving the chip image to the right and then fading in to a set point on the section. In parallel the text changes to a grid of icons that feature the various benefits of the product's architecture. 
+
 ## Performance ##
 This section features charts that detail the performance capability of the product with various technology features enabled as well as comparison to other products the company offers.
 
-![Performance-screenshot](https://github.com/NVIDIA-Clone/VIDIA-RTX-40-product-detail/blob/8f81285bb3247b4b7b6d26a2d2945c8ccda6cfe9/vite-project/public/images/performance-screenshot.png)
-
-
 ## Raytracing ##
 The raytracing section features an image comparison tool, that allows the user to move a line element left and right that will show the difference between the product's ray tracing RTX feature on or off. 
-![Raytracing-screenshot](https://github.com/NVIDIA-Clone/VIDIA-RTX-40-product-detail/blob/315884a29f00ad257dabc4f7727c686d10c365e0/vite-project/public/images/raytracing-screenshot.png)
+![Raytracing-1](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/18dca539-a3df-4b2b-b0af-82f3535d02aa)
+![Raytracing-2](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/821e5276-aabb-484b-95c8-c879d9e329d2)
+![Raytracing-3](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/32f7f2c8-852e-475d-87b5-4cb02cc1f4e2)
 
 
 ## DLSS 3 ##
@@ -49,11 +49,22 @@ Similar to DLSS section, a youtube video is embedded to show the features of the
 
 ## Creative ##
 The creative element is a dynamic feature that allows the user to choose what is visible below the navigator selectors. Similar to the inner nav bar at the top of the page, a green line indicates which section within the creative portion is currently in view. 
-![Creative-screenshot](https://github.com/NVIDIA-Clone/VIDIA-RTX-40-product-detail/blob/a9bd289dddf6c6c4fa544e18a8fb399de9ef36cc/vite-project/public/images/creative-screenshot.png)
+![Creative-1](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/e30d92d6-4024-4165-bd52-4d369b82254d)
+![Creative-2](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/9815ac24-baa1-4b99-ae5b-0fefe05aad5e)
+![Creative-3](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/fd18ea5c-2395-4dc1-b76c-cf43321062c3)
+![Creative-4](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/fa06272e-dd93-478d-bc73-8d6df877ae97)
+![Creative-5](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/f026183c-5d77-48a6-a49a-15af683af51b)
+
 
 ## Additional Features ##
 Another section detailing the additional features and benefits of the product. 
 ![additional-features-screenshot](https://github.com/NVIDIA-Clone/VIDIA-RTX-40-product-detail/blob/e35e615c7db8681bd699416c3a79c6314d0339fe/vite-project/public/images/features-screenshot.png)
+
+## Shop ##
+The section to put all of NVIDIA's partners.
+![Shop-1](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/8ab4d1a9-25f3-4f9d-8129-b7cacd6abaff)
+![Shop-2](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/c77a9bf2-b7b7-4a89-b35f-76f8e3bfbdf3)
+
 
 # Development Setup #
 
