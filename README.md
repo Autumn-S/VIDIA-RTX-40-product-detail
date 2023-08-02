@@ -1,23 +1,23 @@
 # VIDIA-RTX-40-product-detail #
 # Table of Contents #
--[Header](#header)
--[OuterNavBar](#outer-nav-bar)
--[InnerNavbar](#inner-nav-bar)
--[Accolades](#accolades)
--[Architecture](#architecture)
--[Performance](#performance)
--[Raytracing](#raytracing)
--[DLSS 3](#dlss-3)
--[Reflex](#reflex)
--[Creative](#creative)
--[Additional Features](#additional-features)
--[Specs](#specs)
--[Gallery](#gallery)
--[Shop](#shop)
--[Development Setup](#development-setup)
--[Tech Stack](#tech-stack)
--[Why use Tailwind CSS?](#why-use-tailwind-css?)
--[Contributors](#contributors)
+-[Header](#header)<br/>
+-[OuterNavBar](#outer-nav-bar)<br/>
+-[InnerNavbar](#inner-nav-bar)<br/>
+-[Accolades](#accolades)<br/>
+-[Architecture](#architecture)<br/>
+-[Performance](#performance)<br/>
+-[Raytracing](#raytracing)<br/>
+-[DLSS 3](#dlss-3)<br/>
+-[Reflex](#reflex)<br/>
+-[Creative](#creative)<br/>
+-[Additional Features](#additional-features)<br/>
+-[Specs](#specs)<br/>
+-[Gallery](#gallery)<br/>
+-[Shop](#shop)<br/>
+-[Development Setup](#development-setup)<br/>
+-[Tech Stack](#tech-stack)<br/>
+-[Why use Tailwind CSS?](#why-use-tailwind-css?)<br/>
+-[Contributors](#contributors)<br/>
 
 ## Description ##
 
