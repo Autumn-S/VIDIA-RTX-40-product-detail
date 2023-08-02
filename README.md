@@ -15,9 +15,9 @@ The motivation for this project stems from our teams interest into the tech worl
 While simple in appearance, the landing page also serves as the React context used for the API queries to gather data required for the rest of the page. 
 ## Nav bars ##
 The website features multiple responsive Nav bars.
-![Header-1](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/96718456-4aa9-40f8-ac1f-f8cc2a0627c6)
-![Header-2](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/a48157af-5fe6-46d8-9459-7d566e7ee0bd)
-![Header-3](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/0d950d99-ff16-465c-b7fb-dd52159d6991)
+![Header1-screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/96718456-4aa9-40f8-ac1f-f8cc2a0627c6)
+
+![Header2-screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/0d950d99-ff16-465c-b7fb-dd52159d6991)
 
 #### Header ####
  At the top, a header with the company logo and multiple links to other pages within the corporate website. The nav bar is hidden after scrolling past the landing page. Currently the links are dead, meaning they do not point to actual URLs. Additionally the login capability is still not implemented.
