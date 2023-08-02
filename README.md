@@ -30,7 +30,7 @@ The motivation for this project stems from our teams interest into the tech worl
 
 ## Landing Page ##
 While simple in appearance, the landing page also serves as the React context used for the API queries to gather data required for the rest of the page. 
-![Landingpage-screenshot](vite-project/public/images/Screenshot from 2023-08-02 08-04-20.png)
+![Landingpage-screenshot](./vite-project/public/images/Screenshot%20from%202023-08-02%2008-04-20.png)
 
 ## Nav bars ##
 The website features multiple responsive Nav bars.
