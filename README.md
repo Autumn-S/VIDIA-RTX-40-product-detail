@@ -1,5 +1,23 @@
 # VIDIA-RTX-40-product-detail #
-![Begining-screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/e08a6f74-f399-46e6-9f22-050ccde2dd20)
+# Table of Contents #
+-[Header](#header)
+-[OuterNavBar](#outer-nav-bar)
+-[InnerNavbar](#inner-nav-bar)
+-[Accolades](#accolades)
+-[Architecture](#architecture)
+-[Performance](#performance)
+-[Raytracing](#raytracing)
+-[DLSS 3](#dlss-3)
+-[Reflex](#reflex)
+-[Creative](#creative)
+-[Additional Features](#additional-features)
+-[Specs](#specs)
+-[Gallery](#gallery)
+-[Shop](#shop)
+-[Development Setup](#development-setup)
+-[Tech Stack](#tech-stack)
+-[Why use Tailwind CSS?](#why-use-tailwind-css?)
+-[Contributors](#contributors)
 
 ## Description ##
 
@@ -12,19 +30,20 @@ The motivation for this project stems from our teams interest into the tech worl
 
 ## Landing Page ##
 While simple in appearance, the landing page also serves as the React context used for the API queries to gather data required for the rest of the page. 
+![Landingpage-screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/e08a6f74-f399-46e6-9f22-050ccde2dd20)
 
 ## Nav bars ##
 The website features multiple responsive Nav bars.
-#### Header ####
+## Header ##
  At the top, a header with the company logo and multiple links to other pages within the corporate website. The nav bar is hidden after scrolling past the landing page. Currently the links are dead, meaning they do not point to actual URLs. Additionally the login capability is still not implemented.
 ![Header1-screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/96718456-4aa9-40f8-ac1f-f8cc2a0627c6)
 ![Header2-screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/0d950d99-ff16-465c-b7fb-dd52159d6991)
 
-#### Outer Nav Bar ####
+## Outer Nav Bar ##
 Below the header, the outer nav bar features drop downs to navigate within the specific product category being advertised, in this instance the GPU product line and associated technology and information. This outer nav is shown at all times at the top of the page once the landing page is scrolled past.
 ![Outter-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/897469e5-c828-429a-b289-6cdfcb26450f)
 
-#### Inner Nav Bar ####
+## Inner Nav Bar ##
 The inner nav bar is directly below the landing page, and as the user scrolls down it attaches itself below the outer nav bar and remains visible for the rest of the page. It features clickable links to go to various sections within the page, as well as an animated line indicating which section is currently being viewed which is dynamic with user input.
 ![Inner-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/aecebd26-b181-4714-a12b-001beeabf469)
 
@@ -105,7 +124,7 @@ There are many benefits of using a CSS framework like Tailwind. Below are the ma
 * _You don’t have to invent class names_. When Tailwind, you’re choosing classes from a pre-defined design system. That means you don’t need to agonize over picking the “perfect” class names for certain styles and components, or remember complicated ones like sidebar-inner-wrapper.
 * _You can make safer changes_. With the traditional approach, if you make changes to CSS, you may break something across your site. Unlike CSS, utility classes in your HTML are local. That means you can change them without worrying about breaking something else on your site.
 
-##Contributors
+## Contributors ##
 
 [Bao Tran](https://www.linkedin.com/in/baottran21/):space_invader:<br/>
 [Nathan Vititoe](https://www.linkedin.com/in/nathanvititoe/)<br/>
