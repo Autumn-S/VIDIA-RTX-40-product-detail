@@ -30,75 +30,75 @@ The motivation for this project stems from our teams interest into the tech worl
 
 ## Landing Page ##
 While simple in appearance, the landing page also serves as the React context used for the API queries to gather data required for the rest of the page. 
-![Landingpage-screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/e08a6f74-f399-46e6-9f22-050ccde2dd20)
+![Landingpage-screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/e08a6f74-f399-46e6-9f22-050ccde2dd20.jpg)
 
 ## Nav bars ##
 The website features multiple responsive Nav bars.
 ## Header ##
  At the top, a header with the company logo and multiple links to other pages within the corporate website. The nav bar is hidden after scrolling past the landing page. Currently the links are dead, meaning they do not point to actual URLs. Additionally the login capability is still not implemented.
-![Header1-screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/96718456-4aa9-40f8-ac1f-f8cc2a0627c6)
-![Header2-screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/0d950d99-ff16-465c-b7fb-dd52159d6991)
+![Header1-screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/96718456-4aa9-40f8-ac1f-f8cc2a0627c6.jpg)
+![Header2-screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/0d950d99-ff16-465c-b7fb-dd52159d6991.jpg)
 
 ## Outer Nav Bar ##
 Below the header, the outer nav bar features drop downs to navigate within the specific product category being advertised, in this instance the GPU product line and associated technology and information. This outer nav is shown at all times at the top of the page once the landing page is scrolled past.
-![Outter-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/897469e5-c828-429a-b289-6cdfcb26450f)
+![Outter-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/897469e5-c828-429a-b289-6cdfcb26450f.jpg)
 
 ## Inner Nav Bar ##
 The inner nav bar is directly below the landing page, and as the user scrolls down it attaches itself below the outer nav bar and remains visible for the rest of the page. It features clickable links to go to various sections within the page, as well as an animated line indicating which section is currently being viewed which is dynamic with user input.
-![Inner-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/aecebd26-b181-4714-a12b-001beeabf469)
+![Inner-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/aecebd26-b181-4714-a12b-001beeabf469.jpg)
 
 ## Accolades ##
 The accolades section utilizes a fading carousel feature that shows sentence length accolades about the product. 
-![Accolades-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/93644dfc-ab7c-4d3f-8f71-9a292b7ba766)
+![Accolades-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/93644dfc-ab7c-4d3f-8f71-9a292b7ba766.jpg)
 
 ## Architecture ##
 This section utilizes an animated transform that is responsive to the user scrolling down the page. Upon reaching a breakpoint, the animation kicks off, moving the chip image to the right and then fading in to a set point on the section. In parallel the text changes to a grid of icons that feature the various benefits of the product's architecture. 
-![Architecture-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/4bd6b2c4-dc14-4584-95de-f04aaf6bbbd8)
-![Architecture2-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/865e1bda-acb9-4f58-9787-56a89ea8d93e)
+![Architecture-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/4bd6b2c4-dc14-4584-95de-f04aaf6bbbd8.jpg)
+![Architecture2-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/865e1bda-acb9-4f58-9787-56a89ea8d93e.jpg)
 
 
 ## Performance ##
 This section features charts that detail the performance capability of the product with various technology features enabled as well as comparison to other products the company offers.
-![Performance-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/4e2b297c-12e1-49a3-b9fc-dffa2fb7f5ee)
+![Performance-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/4e2b297c-12e1-49a3-b9fc-dffa2fb7f5ee.jpg)
 
 ## Raytracing ##
 The raytracing section features an image comparison tool, that allows the user to move a line element left and right that will show the difference between the product's ray tracing RTX feature on or off. 
-![Raytracing-1-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/18dca539-a3df-4b2b-b0af-82f3535d02aa)
-![Raytracing-2-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/821e5276-aabb-484b-95c8-c879d9e329d2)
-![Raytracing-3-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/32f7f2c8-852e-475d-87b5-4cb02cc1f4e2)
+![Raytracing-1-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/18dca539-a3df-4b2b-b0af-82f3535d02aa.jpg)
+![Raytracing-2-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/821e5276-aabb-484b-95c8-c879d9e329d2.jpg)
+![Raytracing-3-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/32f7f2c8-852e-475d-87b5-4cb02cc1f4e2.jpg)
 
 ## DLSS 3 ##
 A youtube video is embedded showcasing the DLSS (Deep Learning Super Sampling) technoloy.
-![Dlss-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/41780747-fb94-400f-b71e-0ef542aad1d2)
+![Dlss-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/41780747-fb94-400f-b71e-0ef542aad1d2.jpg)
 
 ## Reflex ##
 Similar to DLSS section, a youtube video is embedded to show the features of the product.
-![Reflex-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/7ac0fc63-53e8-4540-9d28-3ed4f285eaa8)
+![Reflex-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/7ac0fc63-53e8-4540-9d28-3ed4f285eaa8.jpg)
 
 ## Creative ##
 The creative element is a dynamic feature that allows the user to choose what is visible below the navigator selectors. Similar to the inner nav bar at the top of the page, a green line indicates which section within the creative portion is currently in view. 
-![Creative-1](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/e30d92d6-4024-4165-bd52-4d369b82254d)
-![Creative-2](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/9815ac24-baa1-4b99-ae5b-0fefe05aad5e)
-![Creative-3](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/fd18ea5c-2395-4dc1-b76c-cf43321062c3)
-![Creative-4](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/fa06272e-dd93-478d-bc73-8d6df877ae97)
-![Creative-5](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/f026183c-5d77-48a6-a49a-15af683af51b)
+![Creative-1](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/e30d92d6-4024-4165-bd52-4d369b82254d.jpg)
+![Creative-2](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/9815ac24-baa1-4b99-ae5b-0fefe05aad5e.jpg)
+![Creative-3](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/fd18ea5c-2395-4dc1-b76c-cf43321062c3.jpg)
+![Creative-4](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/fa06272e-dd93-478d-bc73-8d6df877ae97.jpg)
+![Creative-5](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/f026183c-5d77-48a6-a49a-15af683af51b.jpg)
 
 ## Additional Features ##
 Another section detailing the additional features and benefits of the product. 
-![Add-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/e34fd2cd-cf52-4ff3-8eb3-44283a9c0852)
+![Add-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/e34fd2cd-cf52-4ff3-8eb3-44283a9c0852.jpg)
 
 ## Specs ##
-![Spec1-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/45449b5e-105c-4b7e-837f-a0c35608c796)
-![Spec2-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/0dad4696-ed3b-4b8b-81fe-1a85b570703d)
-![Spec3-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/f3ce660f-6031-413e-bcfa-56c9fd0c1fa0)
+![Spec1-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/45449b5e-105c-4b7e-837f-a0c35608c796.jpg)
+![Spec2-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/0dad4696-ed3b-4b8b-81fe-1a85b570703d.jpg)
+![Spec3-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/f3ce660f-6031-413e-bcfa-56c9fd0c1fa0.jpg)
 
 ## Gallery ##
-![Gallery-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/a98a6cf3-e66f-4afc-a093-3aeaca52c18f)
+![Gallery-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/a98a6cf3-e66f-4afc-a093-3aeaca52c18f.jpg)
 
 ## Shop ##
 The section to put all of NVIDIA's partners.
-![Shop-1](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/8ab4d1a9-25f3-4f9d-8129-b7cacd6abaff)
-![Shop-2](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/c77a9bf2-b7b7-4a89-b35f-76f8e3bfbdf3)
+![Shop-1](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/8ab4d1a9-25f3-4f9d-8129-b7cacd6abaff.jpg)
+![Shop-2](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/c77a9bf2-b7b7-4a89-b35f-76f8e3bfbdf3.jpg)
 
 
 # Development Setup #
