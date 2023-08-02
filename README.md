@@ -1,6 +1,5 @@
 # VIDIA-RTX-40-product-detail #
-![splash-image](https://github.com/NVIDIA-Clone/VIDIA-RTX-40-product-detail/blob/6cef3c25efa03cbcccf2f5b2aaf722e11b1528c1/vite-project/public/images/VIDIA_splash.png)
-
+[Screenshot from 2023-08-02 08-04-20](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/e08a6f74-f399-46e6-9f22-050ccde2dd20)
 
 ## Description ##
 
