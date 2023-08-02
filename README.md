@@ -29,31 +29,32 @@ The accolades section utilizes a fading carousel feature that shows sentence len
 
 ## Architecture ##
 This section utilizes an animated transform that is responsive to the user scrolling down the page. Upon reaching a breakpoint, the animation kicks off, moving the chip image to the right and then fading in to a set point on the section. In parallel the text changes to a grid of icons that feature the various benefits of the product's architecture. 
-
-![Performance-screenshot](https://github.com/NVIDIA-Clone/VIDIA-RTX-40-product-detail/blob/8f81285bb3247b4b7b6d26a2d2945c8ccda6cfe9/vite-project/public/images/performance-screenshot.png)
 ## Performance ##
 This section features charts that detail the performance capability of the product with various technology features enabled as well as comparison to other products the company offers.
 
+![Performance-screenshot](https://github.com/NVIDIA-Clone/VIDIA-RTX-40-product-detail/blob/8f81285bb3247b4b7b6d26a2d2945c8ccda6cfe9/vite-project/public/images/performance-screenshot.png)
 
-![Raytracing-screenshot](https://github.com/NVIDIA-Clone/VIDIA-RTX-40-product-detail/blob/315884a29f00ad257dabc4f7727c686d10c365e0/vite-project/public/images/raytracing-screenshot.png)
+
 ## Raytracing ##
 The raytracing section features an image comparison tool, that allows the user to move a line element left and right that will show the difference between the product's ray tracing RTX feature on or off. 
+![Raytracing-screenshot](https://github.com/NVIDIA-Clone/VIDIA-RTX-40-product-detail/blob/315884a29f00ad257dabc4f7727c686d10c365e0/vite-project/public/images/raytracing-screenshot.png)
 
-![DLSS-Reflex-screenshot](https://github.com/NVIDIA-Clone/VIDIA-RTX-40-product-detail/blob/5659edb825356650e1b6d118cc4f04baf6c347c8/vite-project/public/images/dlss-reflex-screenshot.png)
 
 ## DLSS 3 ##
 A youtube video is embedded showcasing the DLSS (Deep Learning Super Sampling) technoloy.
+![DLSS-Reflex-screenshot](https://github.com/NVIDIA-Clone/VIDIA-RTX-40-product-detail/blob/5659edb825356650e1b6d118cc4f04baf6c347c8/vite-project/public/images/dlss-reflex-screenshot.png)
 
 ## Reflex ##
 Similar to DLSS section, a youtube video is embedded to show the features of the product.
+![Reflex-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/7ac0fc63-53e8-4540-9d28-3ed4f285eaa8)
 
-![Creative-screenshot](https://github.com/NVIDIA-Clone/VIDIA-RTX-40-product-detail/blob/a9bd289dddf6c6c4fa544e18a8fb399de9ef36cc/vite-project/public/images/creative-screenshot.png)
 ## Creative ##
 The creative element is a dynamic feature that allows the user to choose what is visible below the navigator selectors. Similar to the inner nav bar at the top of the page, a green line indicates which section within the creative portion is currently in view. 
+![Creative-screenshot](https://github.com/NVIDIA-Clone/VIDIA-RTX-40-product-detail/blob/a9bd289dddf6c6c4fa544e18a8fb399de9ef36cc/vite-project/public/images/creative-screenshot.png)
 
-![additional-features-screenshot](https://github.com/NVIDIA-Clone/VIDIA-RTX-40-product-detail/blob/e35e615c7db8681bd699416c3a79c6314d0339fe/vite-project/public/images/features-screenshot.png)
 ## Additional Features ##
 Another section detailing the additional features and benefits of the product. 
+![additional-features-screenshot](https://github.com/NVIDIA-Clone/VIDIA-RTX-40-product-detail/blob/e35e615c7db8681bd699416c3a79c6314d0339fe/vite-project/public/images/features-screenshot.png)
 
 # Development Setup #
 
