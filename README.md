@@ -1,5 +1,5 @@
 # VIDIA-RTX-40-product-detail #
-[Screenshot from 2023-08-02 08-04-20](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/e08a6f74-f399-46e6-9f22-050ccde2dd20)
+![Begining-screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/assets/130795003/e08a6f74-f399-46e6-9f22-050ccde2dd20)
 
 ## Description ##
 
