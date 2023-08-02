@@ -41,25 +41,25 @@ The website features multiple responsive Nav bars.
 
 ## Outer Nav Bar ##
 Below the header, the outer nav bar features drop downs to navigate within the specific product category being advertised, in this instance the GPU product line and associated technology and information. This outer nav is shown at all times at the top of the page once the landing page is scrolled past.
-![Outter-Screenshot](./images/130795003/897469e5-c828-429a-b289-6cdfcb26450f.png)
+![Outter-Screenshot](./vite-project/public/images/Screenshot%20from%202023-08-02%2008-33-21.png)
 
 ## Inner Nav Bar ##
 The inner nav bar is directly below the landing page, and as the user scrolls down it attaches itself below the outer nav bar and remains visible for the rest of the page. It features clickable links to go to various sections within the page, as well as an animated line indicating which section is currently being viewed which is dynamic with user input.
-![Inner-Screenshot](./images/130795003/aecebd26-b181-4714-a12b-001beeabf469.png)
+![Inner-Screenshot](./vite-project/public/images/Screenshot%20from%202023-08-02%2008-33-33.png)
 
 ## Accolades ##
 The accolades section utilizes a fading carousel feature that shows sentence length accolades about the product. 
-![Accolades-Screenshot](./images/130795003/93644dfc-ab7c-4d3f-8f71-9a292b7ba766.png)
+![Accolades-Screenshot](./vite-project/public/images/Screenshot%20from%202023-08-02%2008-33-43.png)
 
 ## Architecture ##
 This section utilizes an animated transform that is responsive to the user scrolling down the page. Upon reaching a breakpoint, the animation kicks off, moving the chip image to the right and then fading in to a set point on the section. In parallel the text changes to a grid of icons that feature the various benefits of the product's architecture. 
-![Architecture-Screenshot](./images/130795003/4bd6b2c4-dc14-4584-95de-f04aaf6bbbd8.png)
-![Architecture2-Screenshot](./images/130795003/865e1bda-acb9-4f58-9787-56a89ea8d93e.png)
+![Architecture-Screenshot](./vite-project/public/images/Screenshot%20from%202023-08-02%2008-33-58.png)
+![Architecture2-Screenshot](./vite-project/public/images/Screenshot%20from%202023-08-02%2008-34-23.png)
 
 
 ## Performance ##
 This section features charts that detail the performance capability of the product with various technology features enabled as well as comparison to other products the company offers.
-![Performance-Screenshot](./images/130795003/4e2b297c-12e1-49a3-b9fc-dffa2fb7f5ee.png)
+![Performance-Screenshot](./vite-project/public/images/Screenshot%20from%202023-08-02%2008-34-32.png)
 
 ## Raytracing ##
 The raytracing section features an image comparison tool, that allows the user to move a line element left and right that will show the difference between the product's ray tracing RTX feature on or off. 
@@ -69,7 +69,7 @@ The raytracing section features an image comparison tool, that allows the user t
 
 ## DLSS 3 ##
 A youtube video is embedded showcasing the DLSS (Deep Learning Super Sampling) technoloy.
-![Dlss-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/images/130795003/41780747-fb94-400f-b71e-0ef542aad1d2.png)
+![Dlss-Screenshot](./vite-project/public/images/Screenshot%20from%202023-08-02%2008-34-45.png)
 
 ## Reflex ##
 Similar to DLSS section, a youtube video is embedded to show the features of the product.
@@ -85,20 +85,20 @@ The creative element is a dynamic feature that allows the user to choose what is
 
 ## Additional Features ##
 Another section detailing the additional features and benefits of the product. 
-![Add-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/images/130795003/e34fd2cd-cf52-4ff3-8eb3-44283a9c0852.png)
+![Add-Screenshot](./vite-project/public/images/Screenshot%20from%202023-08-02%2008-35-04.png)
 
 ## Specs ##
-![Spec1-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/images/130795003/45449b5e-105c-4b7e-837f-a0c35608c796.png)
-![Spec2-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/images/130795003/0dad4696-ed3b-4b8b-81fe-1a85b570703d.png)
-![Spec3-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/images/130795003/f3ce660f-6031-413e-bcfa-56c9fd0c1fa0.png)
+![Spec1-Screenshot](./vite-project/public/images/Screenshot%20from%202023-08-02%2008-35-16.png)
+![Spec2-Screenshot](./vite-project/public/images/Screenshot%20from%202023-08-02%2008-35-28.png)
+![Spec3-Screenshot](./vite-project/public/images/Screenshot%20from%202023-08-02%2008-35-40.png)
 
 ## Gallery ##
-![Gallery-Screenshot](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/images/130795003/a98a6cf3-e66f-4afc-a093-3aeaca52c18f.png)
+![Gallery-Screenshot](./vite-project/public/images/Screenshot%20from%202023-08-02%2008-35-59.png)
 
 ## Shop ##
 The section to put all of NVIDIA's partners.
 ![Shop-1](./vite-project/public/images/Screenshot%20from%202023-08-02%2008-07-59.png)
-![Shop-2](https://github.com/Autumn-S/VIDIA-RTX-40-product-detail/images/130795003/c77a9bf2-b7b7-4a89-b35f-76f8e3bfbdf3.png)
+![Shop-2](./vite-project/public/images/Screenshot%20from%202023-08-02%2008-08-20.png)
 
 
 # Development Setup #
